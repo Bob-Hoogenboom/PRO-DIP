@@ -1,0 +1,11 @@
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\bin\Debug\netcoreapp2.2\addAnInstanceOfAClass.deps.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\bin\Debug\netcoreapp2.2\addAnInstanceOfAClass.runtimeconfig.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\bin\Debug\netcoreapp2.2\addAnInstanceOfAClass.runtimeconfig.dev.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\bin\Debug\netcoreapp2.2\addAnInstanceOfAClass.dll
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\bin\Debug\netcoreapp2.2\addAnInstanceOfAClass.pdb
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.csprojAssemblyReference.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.csproj.CoreCompileInputs.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.AssemblyInfoInputs.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.AssemblyInfo.cs
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.dll
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\addAnInstanceOfAClass\obj\Debug\netcoreapp2.2\addAnInstanceOfAClass.pdb

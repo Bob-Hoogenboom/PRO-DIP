@@ -1,0 +1,11 @@
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.csprojAssemblyReference.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.csproj.CoreCompileInputs.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.AssemblyInfoInputs.cache
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.AssemblyInfo.cs
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\bin\Debug\netcoreapp2.2\youDontOwnMe.deps.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\bin\Debug\netcoreapp2.2\youDontOwnMe.runtimeconfig.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\bin\Debug\netcoreapp2.2\youDontOwnMe.runtimeconfig.dev.json
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\bin\Debug\netcoreapp2.2\youDontOwnMe.dll
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\bin\Debug\netcoreapp2.2\youDontOwnMe.pdb
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.dll
+C:\Users\marja\OneDrive\Documenten\ma\bewijzenmap\periode1.2\PRO\youDontOwnMe\obj\Debug\netcoreapp2.2\youDontOwnMe.pdb
